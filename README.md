@@ -9,7 +9,7 @@ Eric Ren · ERI Labs · Jersey City, New Jersey · 2026
 
 * https://github.com/ericrenone/THE-COMPLETE-SOCIAL-MACHINE
 
-* https://github.com/ericrenone/THE-COMPLETE-SOCIAL-MACHINE
+* https://github.com/ericrenone/THE-PERFORMED-TERMINUS
 
 ---
 
